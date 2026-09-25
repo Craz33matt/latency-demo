@@ -1,0 +1,8 @@
+* text=auto
+
+
+# Binary
+*.png  binary
+*.gif  binary
+*.mp3  binary
+*.ttf  binary
