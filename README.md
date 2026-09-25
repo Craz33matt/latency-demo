@@ -34,7 +34,7 @@ Higher latency means a bigger **score multiplier** (up to 5×), so the best scor
 
 ## Original art
 
-I drew all of the obstacles and the metal grating catwalk the player runs on.
+I drew all of the obstacles and the metal grating catwalk the player runs on, and designed the UI (title screen, difficulty selector, HUD and the CONNECTION LOST screen).
 
 <img src="Docs/art/lineup.png" alt="Obstacle lineup" width="100%">
 
@@ -92,7 +92,7 @@ Other things I built on top of the base project:
 - **Music:** *16-Bit Adventure* by **Amynedd**
 - **Font:** [Public Pixel](https://ggbot.itch.io/public-pixel-font) by GGBotNet
 - **Background layers, player sprite and wet-floor sign:** third-party asset packs
-- **Obstacle art and metal grating:** me
+- **Obstacle art, metal grating and UI design:** me
 
 ---
 
