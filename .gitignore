@@ -40,3 +40,6 @@ crashlytics-build.properties
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Licensed music (all rights reserved), not redistributable
+Assets/Music/*Amynedd*.mp3

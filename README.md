@@ -6,7 +6,7 @@
 
 <img src="Docs/gameplay.gif" alt="Latency gameplay" width="720">
 
-[**⬇ Download for Windows**](https://github.com/Craz33matt/latency-demo/releases/latest) &nbsp;·&nbsp; Unity 6 &nbsp;·&nbsp; C# &nbsp;·&nbsp; 2D URP
+Unity 6 &nbsp;·&nbsp; C# &nbsp;·&nbsp; 2D URP
 
 </div>
 
@@ -86,10 +86,12 @@ Other things I built on top of the base project:
 2. Clone this repo and open the folder in Unity Hub.
 3. Open `Assets/Scenes/DinoGame.unity` and press Play.
 
+> The soundtrack isn't included in this repo because it's licensed, all-rights-reserved music. The game runs fine without it, just silently. The audio hooks are still in place, so tracks dropped into `Assets/Music/` with the same file names are picked up automatically.
+
 ## Credits
 
 - **Base project:** [Zigurous — Unity Dino Game Tutorial](https://github.com/zigurous/unity-dino-game-tutorial) (starting point for the runner, spawner and ground scroll)
-- **Music:** *16-Bit Adventure* by **Amynedd**
+- **Music (used locally, not distributed):** [*16-Bit Adventure*](https://amynedd.bandcamp.com/album/16-bit-adventure) by **Amynedd**
 - **Font:** [Public Pixel](https://ggbot.itch.io/public-pixel-font) by GGBotNet
 - **Background layers, player sprite and wet-floor sign:** third-party asset packs
 - **Obstacle art, metal grating and UI design:** me
